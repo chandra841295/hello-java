@@ -23,7 +23,7 @@ public class HelloWorld {
 
         System.out.println("Hello World, DevOps has arrived!");
 	System.out.println("First version");
-        System.out.println("Its version 1.2")
+        System.out.println("Its version 1.2");
         System.out.println("Hello World, DevOps has arrived! New Text Added Just Now");
 
     }

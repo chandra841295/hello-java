@@ -20,12 +20,12 @@ public class HelloWorld {
 
     public static void main(String[] args) {
         // Prints "Hello World, DevOps has arrived!" to the terminal window.
-<<<<<<< HEAD
+
         System.out.println("Hello World, DevOps has arrived!");
 	System.out.println("First version");
-=======
+
         System.out.println("Hello World, DevOps has arrived! New Text Added Just Now");
->>>>>>> 46b6b1379390c1da4e379210fd2f0b44293dc543
+
     }
 
 }
